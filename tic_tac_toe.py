@@ -10,6 +10,6 @@ num_box= 9
 
 #Instructions Display
 def disp_info():
-    print "Game Instructions"
+    print "          #### Game Instructions ####           "
 
 disp_info()
